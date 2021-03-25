@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ardias3</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">Pesan</string>
+    <string name="send">Send</string>
+    <string name="reminder">reminder</string>
+    <string name="done">done</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+</resources>

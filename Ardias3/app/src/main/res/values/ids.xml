@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <item name="To" type="id" />
+    <item name="Subject" type="id" />
+    <item name="Pesan" type="id" />
+    <item name="Send" type="id" />
+    </resources>

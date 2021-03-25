@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+    <LinearLayout xmlns:andoid="http://schemas.android.com/apk/res/android"
+        andoid:orientation="vertical"
+        andoid:layout_height="match_parent"
+        andoid:layout_width="match_parent">
+
+        <TextView
+            andoid:id="@+id/loginscrn"
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_marginTop="80dp"
+            andoid:text="ScrollView"
+            andoid:textSize="25dp"
+            andoid:textStyle="bold"
+            andoid:layout_gravity="center"/>
+        <TextView
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:id="@+id/fstText"
+            andoid:layout_marginTop="20dp"
+            andoid:text="Welcome to Tutlane"
+            andoid:layout_gravity="center"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button One"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button Two"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button Three"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button Four"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button Five"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button Six"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button Seven"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button Eight"/>
+        <Button
+            andoid:layout_width="wrap_content"
+            andoid:layout_height="wrap_content"
+            andoid:layout_gravity="center"
+            andoid:layout_marginTop="60dp"
+            andoid:text="Button Nine"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
